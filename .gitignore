@@ -131,3 +131,6 @@ dist
 
 # codigo de js
 .main.js
+
+# styles
+.style.css
